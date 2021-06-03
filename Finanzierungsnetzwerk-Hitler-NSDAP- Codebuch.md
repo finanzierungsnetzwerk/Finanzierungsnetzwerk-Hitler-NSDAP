@@ -20,6 +20,9 @@ Stärke der Unterstützung
 
 **time**  
 Zeitraum, in dem der Geldfluss zwischen zwei Knoten stattgefunden hat.
+1 = 1923-1927
+2 = 1928-1933
+3 = 1934-1939
 
 **use**  
 Hitlers Verwendungszweck des Geldes
